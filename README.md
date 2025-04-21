@@ -20,6 +20,7 @@ Notes: This has been notoriously buggy on the default pictures of plants that ar
 
 ### App #2: "second_ml_app"
 This app extends the core requirements by adding a third coreML model.
+
 **TAB #1**
 CoreML Model: MobileNetV2 (Object Recognition)
 Purpose: Enter an image and receive a single output of what the object contains, as well as an emoji (from a limited set) and a level of confidence.
